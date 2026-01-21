@@ -60,7 +60,7 @@ specializing in building **scalable, maintainable, and high-performance web appl
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnujirge)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnujirge&layout=compact&theme=tokyonight&hide=html,css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnujirge)
 
 
 
