@@ -172,7 +172,7 @@ Angular (Standalone & Module-based)
 
 </td>
 
-<td width="25%" align="center">
+<td width="35%" align="center">
 
 <img src="coding.gif" style="max-width:220px; width:100%;" />
 
