@@ -1,5 +1,5 @@
 <img src="https://private-user-images.githubusercontent.com/97807779/450327712-eb2f9fa4-8230-4a98-8444-f99c5b77456d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjkwMDY5MjIsIm5iZiI6MTc2OTAwNjYyMiwicGF0aCI6Ii85NzgwNzc3OS80NTAzMjc3MTItZWIyZjlmYTQtODIzMC00YTk4LTg0NDQtZjk5YzViNzc0NTZkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTIxVDE0NDM0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI1YTYzNTBjZWQxMmU2OTZlZWU3YmUxNzk0MDZhY2M3NTU4MzA1Mzc5ZDY5ZThhNmJmYzdhNTQ4NmFmYTY5NzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.yEfLcvvdyolYfxIlepePOxPlB7ZjIZfcNC26UgLNCYQ">
-<img src="YOUR_BANNER_GIF_OR_IMAGE_URL" />
+<img src="YOUR_BANNER_IMAGE_OR_GIF_URL" />
 
 🚀 **Angular Developer | TypeScript | JavaScript | HTML • CSS • SCSS • UI + Business Logic**
 
@@ -33,9 +33,7 @@ specializing in building **scalable, maintainable, and high-performance web appl
 </td>
 
 <td width="40%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" />
-
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" />
 </td>
 
 </tr>
@@ -50,17 +48,40 @@ specializing in building **scalable, maintainable, and high-performance web appl
 
 <td width="33%" valign="top">
 
-### 🎨 Frontend / Libraries
+### 🧩 Frameworks
 - Angular (Standalone & Module-based)
-- TypeScript, RxJS
-- HTML5, CSS3, SCSS
-- Angular Material, PrimeNG
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📚 Languages
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3, SCSS
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🧱 UI Libraries
+- Angular Material
+- PrimeNG
 - ngx-toastr (Notifications)
 - Bootstrap 4
 
 </td>
 
-<td width="33%" valign="top">
+</tr>
+</table>
+
+<br/>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🔗 Backend & APIs
 - REST APIs
@@ -70,7 +91,7 @@ specializing in building **scalable, maintainable, and high-performance web appl
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🧰 Tools
 - Git & GitHub
