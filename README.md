@@ -162,11 +162,10 @@ Angular (Standalone & Module-based)
 - Difficulty Levels
 
 ## 🚀 Featured Angular Projects
-
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr>
 
-<td width="80%" valign="top">
+<td width="75%" valign="top">
 
 ### 🎬 Movie Management App
 - Angular + Firebase  
@@ -192,13 +191,15 @@ Angular (Standalone & Module-based)
 
 </td>
 
-<td width="20%" align="center">
-<img src="coding.gif" width="420" />
+<td width="25%" align="center">
+
+<img src="coding.gif" style="max-width:220px; width:100%;" />
 
 </td>
 
 </tr>
 </table>
+
 
 ---
 
