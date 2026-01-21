@@ -161,6 +161,48 @@ Angular (Standalone & Module-based)
 - Score Tracking
 - Difficulty Levels
 
+## 🚀 Featured Angular Projects
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+
+<td width="65%" valign="top">
+
+### 🎬 Movie Management App
+- Angular + Firebase  
+- Authentication & Route Guards  
+- CRUD Operations  
+- Realtime Database  
+- Modular Architecture  
+
+<br/>
+
+### 📋 Task Manager App
+- Angular Reactive Forms  
+- Services & Dependency Injection  
+- Local Storage  
+- Clean UI with Bootstrap  
+
+<br/>
+
+### 🐍 Snake Game (JavaScript)
+- DOM Manipulation  
+- Score Tracking  
+- Difficulty Levels  
+
+</td>
+
+<td width="35%" align="center">
+  <img 
+    src="https://private-user-images.githubusercontent.com/97807779/483178384-d6dfadcb-2641-47ce-b0fe-668f9bf78b22.gif"
+    width="100%"
+    alt="coding gif"
+  />
+</td>
+
+</tr>
+</table>
+
 ---
 
 ## 📊 GitHub Stats
