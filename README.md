@@ -193,11 +193,8 @@ Angular (Standalone & Module-based)
 </td>
 
 <td width="35%" align="center">
-  <img 
-    src="[https://private-user-images.githubusercontent.com/97807779/483178384-d6dfadcb-2641-47ce-b0fe-668f9bf78b22.gif](https://private-user-images.githubusercontent.com/97807779/483178384-d6dfadcb-2641-47ce-b0fe-668f9bf78b22.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjkwMjIyMjQsIm5iZiI6MTc2OTAyMTkyNCwicGF0aCI6Ii85NzgwNzc3OS80ODMxNzgzODQtZDZkZmFkY2ItMjY0MS00N2NlLWIwZmUtNjY4ZjliZjc4YjIyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTIxVDE4NTg0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQwMDBhNjhjNmM1ODBlOTllNDAwMWQ1ZjNkZGIyMGMyNWJlOTYzY2JlZjFhNDlhOGM1NDQ4NTFlNmZkYmJjNjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.2IweFc7Tbt6jPs2VTqTjya1KgrljPRooYGjvdV6CeH8)"
-    width="100%"
-    alt="coding gif"
-  />
+<img src="coding.gif" width="420" />
+
 </td>
 
 </tr>
