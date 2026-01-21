@@ -13,6 +13,36 @@ specializing in building **scalable, maintainable, and high-performance web appl
 ---
 
 ## 🌱 Always Learning New
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+
+<td width="60%" valign="top">
+
+### 🧠 Skills & Focus
+- 🚀 **Angular Developer** (Production-ready applications)
+- ⚙️ **TypeScript, JavaScript**
+- 🎨 **HTML5, CSS3, SCSS**
+- 🧩 **Angular Material, PrimeNG**
+- 🔔 **ngx-toastr (Notifications)**
+- 🧱 **Bootstrap 4**
+- 🔄 **RxJS, Reactive Forms**
+- 🧠 Clean architecture & reusable components
+- 🐞 Fun fact: I enjoy debugging more than writing fresh code 😄
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" />
+
+</td>
+
+</tr>
+</table>
+
+---
+
 ## 🛠️ Tech Stack (Angular-Focused)
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
@@ -53,9 +83,6 @@ specializing in building **scalable, maintainable, and high-performance web appl
 </tr>
 </table>
 
-
-💡 Experience integrating **enterprise UI libraries** and **notification systems** in production Angular applications.
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,scss,bootstrap,firebase,git,github" />
 </p>
@@ -93,7 +120,6 @@ specializing in building **scalable, maintainable, and high-performance web appl
 ---
 
 ## 🌐 Connect With Me
-
 - 🌍 Portfolio: https://your-portfolio.vercel.app
 - 💼 LinkedIn: https://www.linkedin.com/in/vishnu-j-7338a4258/
 - 📧 Email: vishnusjirge@gmail.com
