@@ -160,3 +160,27 @@ specializing in building **scalable, maintainable, and high-performance web appl
 - 🌍 Portfolio: https://your-portfolio.vercel.app
 - 💼 LinkedIn: https://www.linkedin.com/in/vishnu-j-7338a4258/
 - 📧 Email: vishnusjirge@gmail.com
+
+  ---
+  
+⚡ Always building • Always learning • Angular at heart
+
+
+
+---
+
+<p align="center">
+  <img 
+    src="https://camo.githubusercontent.com/52ab25589682653c5dbe0612efe13f38c491b150fb21109f7c7a5823ab9c1254/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f666f6e743d5269676874656f75732673697a653d32352663656e7465723d74727565267643656e7465723d747275652677696474683d353030266865696768743d3730266475726174696f6e3d34303030266c696e65733d5468616e6b732b666f722b7669736974696e67212be29da4efb88f3b49276d2b416c776179732b4f70656e2b746f2b436f6c6c61626f726174696f6e213b4b6565702b4c6561726e696e672c2b4b6565702b4275696c64696e6721"
+    alt="Thanks for visiting"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg"
+    alt="Footer wave"
+    width="100%"
+  />
+</p>
+
