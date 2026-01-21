@@ -18,7 +18,42 @@ high-performance, scalable, and user-centric web applications.
 
 🚀 Passionate about clean architecture, reusable components, and real-world problem solving.
 
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"> -->
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📈 GitHub Stats</h3>
+
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=false"
+        width="100%" 
+      />
+
+      <br/>
+
+      <img 
+        src="https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false"
+        width="100%" 
+      />
+
+      <br/>
+
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=false"
+        width="100%" 
+      />
+    </td>
+
+    <td width="50%" align="center">
+      <img 
+        src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"
+        width="90%" 
+        alt="Coding"
+      />
+    </td>
+  </tr>
+</table>
+
 
 
 ## 🛠️ Skills
