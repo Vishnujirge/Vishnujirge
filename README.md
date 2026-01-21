@@ -71,7 +71,7 @@ Angular (Standalone & Module-based)
 - TypeScript
 - JavaScript
 - HTML5
-- CSS3,   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="18" />
+- CSS3,   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="25" />
 
 </td>
 
