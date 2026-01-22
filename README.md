@@ -207,7 +207,7 @@ Angular (Standalone & Module-based)
 ---
 
 ## 🌐 Connect With Me
-- 🌍 Portfolio: https://your-portfolio.vercel.app
+- 🌍 Portfolio: https://vishnu-j-dev-portfolio.vercel.app/
 - 💼 LinkedIn: https://www.linkedin.com/in/vishnu-j-7338a4258/
 - 📧 Email: vishnusjirge@gmail.com
 
